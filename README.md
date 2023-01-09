@@ -1,7 +1,7 @@
 # BERT-Neural-Network
 Sentimental Analysis using BERT Neural Network
 
-in this simple tutorial we made a sentiment analyis for one of the resturants on YELP website
+in this simple tutorial we made a sentiment analyis for one of the resturants on YELP website (measure the satisfaction of the customers)
 
 you can change it and try another website like amazon or bestbuy
 
